@@ -596,14 +596,9 @@
       "postId": "men's clothing"
     },
     {
-      "id": 5,
+      "id": 8,
       "cateogr": "women's clothing",
       "postId": "women's clothing"
-    },
-    {
-      "id": 5,
-      "cateogr": "groceries",
-      "postId": "groceries"
     }
   ]
 }
