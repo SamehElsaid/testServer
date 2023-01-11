@@ -11,20 +11,8 @@
       "fav": {
         "num": 0
       },
-      "img": "https://firebasestorage.googleapis.com/v0/b/protofolio-64812.appspot.com/o/New%20Project%20(2).png?alt=media&token=81b54aaf-6768-4cd9-ac63-52b6733a533b"
-    },
-    {
-      "email": "sasa10@gmail.com",
-      "password": "258852S",
-      "name": "Ibrahem",
-      "id": "sasa10@gmail.com",
-      "cart": {
-        "num": 0
-      },
-      "fav": {
-        "num": 0
-      },
-      "img": "https://firebasestorage.googleapis.com/v0/b/protofolio-64812.appspot.com/o/New%20Project%20(2).png?alt=media&token=81b54aaf-6768-4cd9-ac63-52b6733a533b"
+      "img": "https://firebasestorage.googleapis.com/v0/b/protofolio-64812.appspot.com/o/New%20Project%20(2).png?alt=media&token=81b54aaf-6768-4cd9-ac63-52b6733a533b",
+      "control": ""
     },
     {
       "email": "amr36@gmail.com",
@@ -99,6 +87,19 @@
       "password": "258852S",
       "name": "sameh",
       "id": "sameh3629@gmail.com",
+      "cart": {
+        "num": 0
+      },
+      "fav": {
+        "num": 0
+      },
+      "img": "https://firebasestorage.googleapis.com/v0/b/protofolio-64812.appspot.com/o/New%20Project%20(2).png?alt=media&token=81b54aaf-6768-4cd9-ac63-52b6733a533b"
+    },
+    {
+      "email": "sameh@gmail.com",
+      "password": "112233Ss",
+      "name": "sameh",
+      "id": "sameh@gmail.com",
       "cart": {
         "num": 0
       },
@@ -362,104 +363,7 @@
     },
     {
       "id": "sasa@gmail.com",
-      "products": [
-        {
-          "id": 28,
-          "title": "3D Embellishment Art Lamp",
-          "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
-          "price": 20,
-          "discountPercentage": 16.49,
-          "rating": 4.82,
-          "stock": 54,
-          "brand": "LED Lights",
-          "category": "home-decoration",
-          "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
-          "images": "https://i.dummyjson.com/data/products/28/1.jpg",
-          "num": 1
-        },
-        {
-          "id": 21,
-          "title": "- Daal Masoor 500 grams",
-          "description": "Fine quality Branded Product Keep in a cool and dry place",
-          "price": 20,
-          "discountPercentage": 4.81,
-          "rating": 4.44,
-          "stock": 133,
-          "brand": "Saaf & Khaas",
-          "category": "groceries",
-          "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.png",
-          "images": "https://i.dummyjson.com/data/products/21/1.png",
-          "num": 1
-        },
-        {
-          "id": 10,
-          "title": "HP Pavilion 15-DK1056WM",
-          "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
-          "price": 1099,
-          "discountPercentage": 6.18,
-          "rating": 4.43,
-          "stock": 89,
-          "brand": "HP Pavilion",
-          "category": "laptops",
-          "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
-          "images": "https://i.dummyjson.com/data/products/10/1.jpg",
-          "num": 1
-        },
-        {
-          "id": 7,
-          "title": "Samsung Galaxy Book",
-          "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
-          "price": 1499,
-          "discountPercentage": 4.15,
-          "rating": 4.25,
-          "stock": 50,
-          "brand": "Samsung",
-          "category": "laptops",
-          "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
-          "images": "https://i.dummyjson.com/data/products/7/1.jpg",
-          "num": 4
-        },
-        {
-          "id": 4,
-          "title": "OPPOF19",
-          "description": "OPPO F19 is officially announced on April 2021.",
-          "price": 280,
-          "discountPercentage": 17.91,
-          "rating": 4.3,
-          "stock": 123,
-          "brand": "OPPO",
-          "category": "smartphones",
-          "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
-          "images": "https://i.dummyjson.com/data/products/4/1.jpg",
-          "num": 1
-        },
-        {
-          "id": 2,
-          "title": "iPhone X",
-          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-          "price": 899,
-          "discountPercentage": 17.94,
-          "rating": 4.44,
-          "stock": 34,
-          "brand": "Apple",
-          "category": "smartphones",
-          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
-          "images": "https://i.dummyjson.com/data/products/2/1.jpg",
-          "num": 1
-        },
-        {
-          "title": "Sneakers Walking",
-          "description": "Rubber sole\nFashion Low-top Sneakers:Flexible shoes mouth matched with laces to adjust the width,allows you easily put onoff.\nLightweight and comfortable:deodorant and sweat-absorbing high-quality insole,each step of vibration is gentle and soothing.",
-          "price": "45.99",
-          "rating": 5,
-          "stock": "100",
-          "brand": "QUINMOK ",
-          "category": "shoses",
-          "images": "https://firebasestorage.googleapis.com/v0/b/amzone-clone-e835c.appspot.com/o/img%2F71l9l8IzSWL._AC_UY575_.jpg?alt=media&token=0dce4990-6a48-457c-84af-30bdd8c786b5",
-          "id": 37,
-          "num": 2
-        }
-      ]
+      "products": []
     },
     {
       "id": "smsm@gmail.com",
@@ -477,6 +381,65 @@
           "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
           "images": "https://i.dummyjson.com/data/products/3/1.jpg",
           "num": 2
+        }
+      ]
+    },
+    {
+      "id": "sameh@gmail.com",
+      "products": [
+        {
+          "title": "Sneakers Walking",
+          "description": "Rubber sole\nFashion Low-top Sneakers:Flexible shoes mouth matched with laces to adjust the width,allows you easily put onoff.\nLightweight and comfortable:deodorant and sweat-absorbing high-quality insole,each step of vibration is gentle and soothing.",
+          "price": "45.99",
+          "rating": 5,
+          "stock": "100",
+          "brand": "QUINMOK ",
+          "category": "shoses",
+          "images": "https://firebasestorage.googleapis.com/v0/b/amzone-clone-e835c.appspot.com/o/img%2F71l9l8IzSWL._AC_UY575_.jpg?alt=media&token=0dce4990-6a48-457c-84af-30bdd8c786b5",
+          "id": 37,
+          "num": 3
+        },
+        {
+          "id": 16,
+          "title": "Hyaluronic Acid Serum",
+          "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
+          "price": 19,
+          "discountPercentage": 13.31,
+          "rating": 4.83,
+          "stock": 110,
+          "brand": "L'Oreal Paris",
+          "category": "skincare",
+          "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
+          "images": "https://i.dummyjson.com/data/products/16/1.png",
+          "num": 1
+        },
+        {
+          "id": 2,
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": "https://i.dummyjson.com/data/products/2/1.jpg",
+          "num": 1
+        },
+        {
+          "id": 6,
+          "title": "MacBook Pro",
+          "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+          "price": 1749,
+          "discountPercentage": 11.02,
+          "rating": 4.57,
+          "stock": 83,
+          "brand": "APPle",
+          "category": "laptops",
+          "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+          "images": "https://i.dummyjson.com/data/products/6/1.png",
+          "num": 1
         }
       ]
     }
@@ -733,6 +696,62 @@
           "category": "smartphones",
           "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
           "images": "https://i.dummyjson.com/data/products/4/1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sameh@gmail.com",
+      "products": [
+        {
+          "id": 2,
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 899,
+          "discountPercentage": 17.94,
+          "rating": 4.44,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": "https://i.dummyjson.com/data/products/2/1.jpg"
+        },
+        {
+          "id": 3,
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": "https://i.dummyjson.com/data/products/3/1.jpg"
+        },
+        {
+          "id": 4,
+          "title": "OPPOF19",
+          "description": "OPPO F19 is officially announced on April 2021.",
+          "price": 280,
+          "discountPercentage": 17.91,
+          "rating": 4.3,
+          "stock": 123,
+          "brand": "OPPO",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+          "images": "https://i.dummyjson.com/data/products/4/1.jpg"
+        },
+        {
+          "title": "Sneakers Walking",
+          "description": "Rubber sole\nFashion Low-top Sneakers:Flexible shoes mouth matched with laces to adjust the width,allows you easily put onoff.\nLightweight and comfortable:deodorant and sweat-absorbing high-quality insole,each step of vibration is gentle and soothing.",
+          "price": "45.99",
+          "rating": 5,
+          "stock": "100",
+          "brand": "QUINMOK ",
+          "category": "shoses",
+          "images": "https://firebasestorage.googleapis.com/v0/b/amzone-clone-e835c.appspot.com/o/img%2F71l9l8IzSWL._AC_UY575_.jpg?alt=media&token=0dce4990-6a48-457c-84af-30bdd8c786b5",
+          "id": 37,
+          "num": 3
         }
       ]
     }
